@@ -1,4 +1,4 @@
-# 
+# Professional AI leaf disease detection system extensions. Featuring data-augmentation and AI-scalability — optimized for maximum performance.
 
 
 
